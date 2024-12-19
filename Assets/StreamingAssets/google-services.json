@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "578299717933",
+    "firebase_url": "https://network-dns-5e20d-default-rtdb.firebaseio.com",
+    "project_id": "network-dns-5e20d",
+    "storage_bucket": "network-dns-5e20d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578299717933:android:5d75063dff6ec810d9cba4",
+        "android_client_info": {
+          "package_name": "com.SafwanPaleri.NetworkingProject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-bUEVADcuYmZgMWJqeNS2KlNFO3c6ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
