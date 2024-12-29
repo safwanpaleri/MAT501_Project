@@ -3,8 +3,6 @@
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.collab-proxy": "2.5.2",
     "com.unity.feature.development": "1.0.2",
-    "com.unity.ml-agents": "file:D:/Unity/SDK/ml-agents-develop/ml-agents-develop/com.unity.ml-agents",
-    "com.unity.ml-agents.extensions": "file:D:/Unity/SDK/ml-agents-develop/ml-agents-develop/com.unity.ml-agents.extensions",
     "com.unity.timeline": "1.8.6",
     "com.unity.ugui": "2.0.0",
     "com.unity.visualscripting": "1.9.4",
